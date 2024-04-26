@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as c,b as o}from"./index-Cmx8c5Vm.js";const t={},a=o("h1",null,"This is an faq page",-1),n=[a];function _(r,i){return c(),s("div",null,n)}const d=e(t,[["render",_]]);export{d as default};

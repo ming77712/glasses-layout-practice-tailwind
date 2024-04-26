@@ -1,0 +1,1 @@
+import{_ as e,c,o as t,b as o}from"./index-Cmx8c5Vm.js";const s={},a=o("h1",null,"This is an optical page",-1),n=[a];function _(r,i){return t(),c("div",null,n)}const d=e(s,[["render",_]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,b as t}from"./index-Cmx8c5Vm.js";const c={},n=t("h1",null,"This is an store page",-1),r=[n];function a(_,i){return s(),o("div",null,r)}const d=e(c,[["render",a]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,b as c}from"./index-Cmx8c5Vm.js";const t={},n=c("h1",null,"This is an blog page",-1),a=[n];function _(r,l){return s(),o("div",null,a)}const d=e(t,[["render",_]]);export{d as default};
